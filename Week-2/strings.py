@@ -20,5 +20,6 @@ print("my name is {} and i am {} years old". format (f_name,age))
 print("hello from Bob \n How are you \n I am fine")
 
 print("hello from clive \n How are you \n I am fine")
-print("hello from clive \t How are you \t I am fine")
+print("hello from clive \t How are you \t
+ I am fine")
 

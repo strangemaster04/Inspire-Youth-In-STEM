@@ -41,3 +41,4 @@ elif(net_income >= 1) & (net_income < 100000):
 
 else:
     print("Invalid")
+    
