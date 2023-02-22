@@ -27,4 +27,8 @@ celebs.pop()
 print(celebs)
 
 
+
+
 print(len(celebs))
+
+    
